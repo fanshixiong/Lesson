@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/leave" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pojo/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pojo/leave" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pojo/leave/Leave.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pojo/leave/Student.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pojo/leave/Teacher.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/service/leave" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/servlet/LoginServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/servlet/admin/AdminServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/servlet/admin/AdminServlete.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/servlet/admin/Adminaddusers.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/servlet/admin/Admindelusers.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/servlet/leave" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/images/login.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/leaveadd.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/leaveform.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/leaveform2.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/reimadd.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/jsp/admin/admin.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/jsp/admin/admin_adduser.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/jsp/admin/admin_deluser.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/jsp/common/header.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/jsp/leave" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/jsp/student/student.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/login.jsp" charset="GBK" />
+  </component>
+</project>

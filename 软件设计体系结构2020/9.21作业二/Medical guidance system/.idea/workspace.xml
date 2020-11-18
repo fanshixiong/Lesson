@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5605045-6569-4816-8c49-9679728e1cb4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1huBf7OpEBVvyhJfipi1QtjNtrB" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.frans.Client" />
+      <module name="Medical guidance system" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.frans.test.Test" />
+      <module name="Medical guidance system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.frans.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5605045-6569-4816-8c49-9679728e1cb4" name="Default Changelist" comment="" />
+      <created>1600851196784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600851196784</updated>
+      <workItem from="1600851200339" duration="2905000" />
+      <workItem from="1600938163475" duration="8625000" />
+      <workItem from="1600998537324" duration="3204000" />
+      <workItem from="1601002472961" duration="648000" />
+      <workItem from="1601040849815" duration="1198000" />
+      <workItem from="1601085993182" duration="16866000" />
+      <workItem from="1601188378513" duration="9475000" />
+      <workItem from="1601211430408" duration="1035000" />
+      <workItem from="1601251617364" duration="2766000" />
+      <workItem from="1601258017924" duration="2301000" />
+      <workItem from="1601337388567" duration="3743000" />
+      <workItem from="1601348022568" duration="6769000" />
+      <workItem from="1601375986251" duration="8368000" />
+      <workItem from="1601709845746" duration="1688000" />
+      <workItem from="1601782641490" duration="758000" />
+      <workItem from="1602205621311" duration="27000" />
+      <workItem from="1602987038915" duration="7240000" />
+      <workItem from="1603065536025" duration="3747000" />
+      <workItem from="1603072651789" duration="2874000" />
+      <workItem from="1603117102837" duration="4000" />
+      <workItem from="1603151984248" duration="120000" />
+      <workItem from="1603442115077" duration="90000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="mechines" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

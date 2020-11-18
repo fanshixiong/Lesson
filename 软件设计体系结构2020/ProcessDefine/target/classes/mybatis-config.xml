@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="GBK" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+    <!--configuration核心配置文件-->
+
+    <properties resource="db.properties"/>
+    <settings>
+    <!--日志工厂-->
+        <setting name="logImpl" value="STDOUT_LOGGING"/>
+    </settings>
+
+    <typeAliases>
+        <!--实体类起别名-->
+        <package name="com.pojo"/>
+    </typeAliases>
+
+    <environments default="development">   
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="${driver}"/>
+                <property name="url" value="${jdbcurl}"/>
+                <property name="username" value="${username}"/>
+                <property name="password" value="${password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+    <!--绑定接口-->
+    <mappers>
+        <mapper class="com.mapper.leave.teacher.TeacherMapper"/>
+        <mapper class="com.mapper.user.UserMapper"/>
+        <mapper class="com.mapper.leave.student.StudentMapper"/>
+        <mapper class="com.mapper.leave.leave.LeaveMapper"/>
+        <mapper class="com.mapper.leave.TeastuMapper"/>
+        <mapper class="com.mapper.reimbursement.ReimFormMapper"/>
+        <mapper class="com.mapper.reimbursement.StaffMapper"/>
+        <mapper class="com.mapper.offdoc.OffdocMapper"/>
+    </mappers>
+</configuration>
