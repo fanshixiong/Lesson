@@ -1,0 +1,8 @@
+D:\0000人机交互\0000上课\9-4\Test\Test\bin\Debug\Test.exe
+D:\0000人机交互\0000上课\9-4\Test\Test\bin\Debug\Test.pdb
+D:\0000人机交互\0000上课\9-4\Test\Test\bin\Debug\Test.xml
+D:\0000人机交互\0000上课\9-4\Test\Test\obj\x86\Debug\Test.Resources.resources
+D:\0000人机交互\0000上课\9-4\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+D:\0000人机交互\0000上课\9-4\Test\Test\obj\x86\Debug\Test.exe
+D:\0000人机交互\0000上课\9-4\Test\Test\obj\x86\Debug\Test.xml
+D:\0000人机交互\0000上课\9-4\Test\Test\obj\x86\Debug\Test.pdb

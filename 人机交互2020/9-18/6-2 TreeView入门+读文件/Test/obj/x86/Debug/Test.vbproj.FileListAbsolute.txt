@@ -1,0 +1,98 @@
+D:\0000人机交互\0000上课\9-4\Test\Test\bin\Debug\Test.exe
+D:\0000人机交互\0000上课\9-4\Test\Test\bin\Debug\Test.pdb
+D:\0000人机交互\0000上课\9-4\Test\Test\bin\Debug\Test.xml
+D:\0000人机交互\0000上课\9-4\Test\Test\obj\x86\Debug\Test.Resources.resources
+D:\0000人机交互\0000上课\9-4\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+D:\0000人机交互\0000上课\9-4\Test\Test\obj\x86\Debug\Test.exe
+D:\0000人机交互\0000上课\9-4\Test\Test\obj\x86\Debug\Test.xml
+D:\0000人机交互\0000上课\9-4\Test\Test\obj\x86\Debug\Test.pdb
+D:\0000人机交互\0000上课\9-4\1-1 VB.net入门\Test\obj\x86\Debug\Test.exe
+D:\0000人机交互\0000上课\9-4\1-1 VB.net入门\Test\obj\x86\Debug\Test.xml
+D:\0000人机交互\0000上课\9-4\1-1 VB.net入门\Test\obj\x86\Debug\Test.pdb
+D:\0000人机交互\0000上课\9-4\1-1 VB.net入门\Test\bin\Debug\Test.exe
+D:\0000人机交互\0000上课\9-4\1-1 VB.net入门\Test\bin\Debug\Test.pdb
+D:\0000人机交互\0000上课\9-4\1-1 VB.net入门\Test\bin\Debug\Test.xml
+D:\0000人机交互\0000上课\9-4\1-1 VB.net入门\Test\obj\x86\Debug\Test.frmTest.resources
+D:\0000人机交互\0000上课\9-4\1-1 VB.net入门\Test\obj\x86\Debug\Test.Resources.resources
+D:\0000人机交互\0000上课\9-4\1-1 VB.net入门\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+D:\0000人机交互\0000上课\9-4\1-2 VB.net+类\Test\obj\x86\Debug\Test.exe
+D:\0000人机交互\0000上课\9-4\1-2 VB.net+类\Test\obj\x86\Debug\Test.xml
+D:\0000人机交互\0000上课\9-4\1-2 VB.net+类\Test\obj\x86\Debug\Test.pdb
+D:\0000人机交互\0000上课\9-4\1-2 VB.net+类\Test\bin\Debug\Test.exe
+D:\0000人机交互\0000上课\9-4\1-2 VB.net+类\Test\bin\Debug\Test.pdb
+D:\0000人机交互\0000上课\9-4\1-2 VB.net+类\Test\bin\Debug\Test.xml
+D:\0000人机交互\0000上课\9-4\1-2 VB.net+类\Test\obj\x86\Debug\Test.frmTest.resources
+D:\0000人机交互\0000上课\9-4\1-2 VB.net+类\Test\obj\x86\Debug\Test.Resources.resources
+D:\0000人机交互\0000上课\9-4\1-2 VB.net+类\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+D:\0000人机交互\0000上课\9-11\4-1 画图\Test\obj\x86\Debug\Test.exe
+D:\0000人机交互\0000上课\9-11\4-1 画图\Test\obj\x86\Debug\Test.xml
+D:\0000人机交互\0000上课\9-11\4-1 画图\Test\obj\x86\Debug\Test.pdb
+D:\0000人机交互\0000上课\9-11\4-1 画图\Test\bin\Debug\Test.exe
+D:\0000人机交互\0000上课\9-11\4-1 画图\Test\bin\Debug\Test.pdb
+D:\0000人机交互\0000上课\9-11\4-1 画图\Test\bin\Debug\Test.xml
+D:\0000人机交互\0000上课\9-11\4-1 画图\Test\obj\x86\Debug\Test.frmTest.resources
+D:\0000人机交互\0000上课\9-11\4-1 画图\Test\obj\x86\Debug\Test.Resources.resources
+D:\0000人机交互\0000上课\9-11\4-1 画图\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+D:\0000人机交互技术\0000上课\9-11\5\Test\obj\x86\Debug\Test.exe
+D:\0000人机交互技术\0000上课\9-11\5\Test\obj\x86\Debug\Test.xml
+D:\0000人机交互技术\0000上课\9-11\5\Test\obj\x86\Debug\Test.pdb
+D:\0000人机交互技术\0000上课\9-11\5\Test\bin\Debug\Test.exe
+D:\0000人机交互技术\0000上课\9-11\5\Test\bin\Debug\Test.pdb
+D:\0000人机交互技术\0000上课\9-11\5\Test\bin\Debug\Test.xml
+D:\0000人机交互技术\0000上课\9-11\5\Test\obj\x86\Debug\Test.frmTest.resources
+D:\0000人机交互技术\0000上课\9-11\5\Test\obj\x86\Debug\Test.Resources.resources
+D:\0000人机交互技术\0000上课\9-11\5\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+D:\0000人机交互技术\0000上课\9-11\5-2 点类+动起来\Test\obj\x86\Debug\Test.exe
+D:\0000人机交互技术\0000上课\9-11\5-2 点类+动起来\Test\obj\x86\Debug\Test.xml
+D:\0000人机交互技术\0000上课\9-11\5-2 点类+动起来\Test\obj\x86\Debug\Test.pdb
+D:\0000人机交互技术\0000上课\9-11\5-2 点类+动起来\Test\bin\Debug\Test.exe
+D:\0000人机交互技术\0000上课\9-11\5-2 点类+动起来\Test\bin\Debug\Test.pdb
+D:\0000人机交互技术\0000上课\9-11\5-2 点类+动起来\Test\bin\Debug\Test.xml
+D:\0000人机交互技术\0000上课\9-11\5-2 点类+动起来\Test\obj\x86\Debug\Test.frmTest.resources
+D:\0000人机交互技术\0000上课\9-11\5-2 点类+动起来\Test\obj\x86\Debug\Test.Resources.resources
+D:\0000人机交互技术\0000上课\9-11\5-2 点类+动起来\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+D:\1-2 教学历史\2020秋\周5 人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\obj\x86\Debug\Test.exe
+D:\1-2 教学历史\2020秋\周5 人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\obj\x86\Debug\Test.xml
+D:\1-2 教学历史\2020秋\周5 人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\obj\x86\Debug\Test.pdb
+D:\1-2 教学历史\2020秋\周5 人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\bin\Debug\Test.exe
+D:\1-2 教学历史\2020秋\周5 人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\bin\Debug\Test.pdb
+D:\1-2 教学历史\2020秋\周5 人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\bin\Debug\Test.xml
+D:\1-2 教学历史\2020秋\周5 人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\obj\x86\Debug\Test.frmTest.resources
+D:\1-2 教学历史\2020秋\周5 人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\obj\x86\Debug\Test.Resources.resources
+D:\1-2 教学历史\2020秋\周5 人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+D:\0000人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\obj\x86\Debug\Test.exe
+D:\0000人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\obj\x86\Debug\Test.xml
+D:\0000人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\obj\x86\Debug\Test.pdb
+D:\0000人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\bin\Debug\Test.exe
+D:\0000人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\bin\Debug\Test.pdb
+D:\0000人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\bin\Debug\Test.xml
+D:\0000人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\obj\x86\Debug\Test.frmTest.resources
+D:\0000人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\obj\x86\Debug\Test.Resources.resources
+D:\0000人机交互\0000上课\9-11\5-3 点类+动起来+计算\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+D:\0000人机交互\0000上课\9-18\5-4 点类+Timer\Test\obj\x86\Debug\Test.exe
+D:\0000人机交互\0000上课\9-18\5-4 点类+Timer\Test\obj\x86\Debug\Test.xml
+D:\0000人机交互\0000上课\9-18\5-4 点类+Timer\Test\obj\x86\Debug\Test.pdb
+D:\0000人机交互\0000上课\9-18\5-4 点类+Timer\Test\bin\Debug\Test.exe
+D:\0000人机交互\0000上课\9-18\5-4 点类+Timer\Test\bin\Debug\Test.pdb
+D:\0000人机交互\0000上课\9-18\5-4 点类+Timer\Test\bin\Debug\Test.xml
+D:\0000人机交互\0000上课\9-18\5-4 点类+Timer\Test\obj\x86\Debug\Test.frmTest.resources
+D:\0000人机交互\0000上课\9-18\5-4 点类+Timer\Test\obj\x86\Debug\Test.Resources.resources
+D:\0000人机交互\0000上课\9-18\5-4 点类+Timer\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+D:\0000人机交互\0000上课\9-18\6-1 TreeView\Test\obj\x86\Debug\Test.exe
+D:\0000人机交互\0000上课\9-18\6-1 TreeView\Test\obj\x86\Debug\Test.xml
+D:\0000人机交互\0000上课\9-18\6-1 TreeView\Test\obj\x86\Debug\Test.pdb
+D:\0000人机交互\0000上课\9-18\6-1 TreeView\Test\bin\Debug\Test.exe
+D:\0000人机交互\0000上课\9-18\6-1 TreeView\Test\bin\Debug\Test.pdb
+D:\0000人机交互\0000上课\9-18\6-1 TreeView\Test\bin\Debug\Test.xml
+D:\0000人机交互\0000上课\9-18\6-1 TreeView\Test\obj\x86\Debug\Test.frmTest.resources
+D:\0000人机交互\0000上课\9-18\6-1 TreeView\Test\obj\x86\Debug\Test.Resources.resources
+D:\0000人机交互\0000上课\9-18\6-1 TreeView\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+D:\0000人机交互\0000上课\9-18\6-2 TreeView入门+读文件\Test\obj\x86\Debug\Test.exe
+D:\0000人机交互\0000上课\9-18\6-2 TreeView入门+读文件\Test\obj\x86\Debug\Test.xml
+D:\0000人机交互\0000上课\9-18\6-2 TreeView入门+读文件\Test\obj\x86\Debug\Test.pdb
+D:\0000人机交互\0000上课\9-18\6-2 TreeView入门+读文件\Test\bin\Debug\Test.exe
+D:\0000人机交互\0000上课\9-18\6-2 TreeView入门+读文件\Test\bin\Debug\Test.pdb
+D:\0000人机交互\0000上课\9-18\6-2 TreeView入门+读文件\Test\bin\Debug\Test.xml
+D:\0000人机交互\0000上课\9-18\6-2 TreeView入门+读文件\Test\obj\x86\Debug\Test.frmTest.resources
+D:\0000人机交互\0000上课\9-18\6-2 TreeView入门+读文件\Test\obj\x86\Debug\Test.Resources.resources
+D:\0000人机交互\0000上课\9-18\6-2 TreeView入门+读文件\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
