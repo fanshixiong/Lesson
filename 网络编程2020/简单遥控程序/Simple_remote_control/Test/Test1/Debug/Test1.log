@@ -1,0 +1,12 @@
+﻿  Test1.cpp
+F:\docment\My\网络编程2020\简单遥控程序\Simple_remote_control\Test\Test1\Test1.cpp(15,24): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+Test1.obj : error LNK2019: 无法解析的外部符号 __imp__closesocket@4，函数 _main 中引用了该符号
+Test1.obj : error LNK2019: 无法解析的外部符号 __imp__connect@12，函数 _main 中引用了该符号
+Test1.obj : error LNK2019: 无法解析的外部符号 __imp__htons@4，函数 _main 中引用了该符号
+Test1.obj : error LNK2019: 无法解析的外部符号 __imp__inet_addr@4，函数 _main 中引用了该符号
+Test1.obj : error LNK2019: 无法解析的外部符号 __imp__recv@16，函数 _main 中引用了该符号
+Test1.obj : error LNK2019: 无法解析的外部符号 __imp__send@16，函数 _main 中引用了该符号
+Test1.obj : error LNK2019: 无法解析的外部符号 __imp__socket@12，函数 _main 中引用了该符号
+Test1.obj : error LNK2019: 无法解析的外部符号 __imp__WSAStartup@8，函数 _main 中引用了该符号
+Test1.obj : error LNK2019: 无法解析的外部符号 __imp__WSACleanup@0，函数 _main 中引用了该符号
+F:\docment\My\网络编程2020\简单遥控程序\Simple_remote_control\Test\Test1\Debug\Test1.exe : fatal error LNK1120: 9 个无法解析的外部命令

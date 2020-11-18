@@ -1,0 +1,2 @@
+F:\docment\My\网络编程2020\简单遥控程序\Simple_remote_control\Server\Server\Debug\Server.exe
+F:\docment\My\网络编程2020\简单遥控程序\Simple_remote_control\Server\Server\Debug\Server.pdb
